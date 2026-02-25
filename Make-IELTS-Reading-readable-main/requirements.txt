@@ -1,0 +1,12 @@
+torch>=2.0.0
+transformers>=4.30.0
+torchinfo
+datasets>=2.14.0
+evaluate>=0.4.0
+sacrebleu
+rouge_score
+wandb
+nltk
+tqdm
+sentencepiece
+accelerate

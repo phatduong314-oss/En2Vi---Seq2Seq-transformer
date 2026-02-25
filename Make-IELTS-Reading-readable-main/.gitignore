@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Model weights 
+models/
+my_ielts_model/
+checkpoint_epoch_*/
+
+# WandB logs
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+torch_info.html
+.env
