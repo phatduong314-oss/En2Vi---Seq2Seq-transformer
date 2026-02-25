@@ -1,0 +1,23 @@
+# Model weights (too large for GitHub >100MB)
+*.safetensors
+*.pt
+*.bin
+*.pth
+
+# Checkpoint folders
+checkpoint_epoch_*/
+models/
+
+# WandB logs
+wandb/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
